@@ -1,4 +1,0 @@
-Buggy and unfinished school project from my Programming 1 course. May fix and update at a later date.
-
-This is a console based version of pokemon. This is a horribly made from scratch fan game that was purely used to show I am capable of coding and making a simple demo of it.
-Demo here: https://www.youtube.com/watch?v=iyxbpxc8fkQ
