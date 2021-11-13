@@ -1,0 +1,12 @@
+F:\ConsoleMonsters\PokeFight\bin\Debug\button.wav
+F:\ConsoleMonsters\PokeFight\bin\Debug\ConsoleMonsters.exe.config
+F:\ConsoleMonsters\PokeFight\bin\Debug\ConsoleMonsters.exe.manifest
+F:\ConsoleMonsters\PokeFight\bin\Debug\ConsoleMonsters.application
+F:\ConsoleMonsters\PokeFight\bin\Debug\ConsoleMonsters.exe
+F:\ConsoleMonsters\PokeFight\bin\Debug\ConsoleMonsters.pdb
+F:\ConsoleMonsters\PokeFight\obj\Debug\ConsoleMonsters.csproj.CoreCompileInputs.cache
+F:\ConsoleMonsters\PokeFight\obj\Debug\ConsoleMonsters.exe.manifest
+F:\ConsoleMonsters\PokeFight\obj\Debug\ConsoleMonsters.application
+F:\ConsoleMonsters\PokeFight\obj\Debug\ConsoleMonsters.exe
+F:\ConsoleMonsters\PokeFight\obj\Debug\ConsoleMonsters.pdb
+F:\ConsoleMonsters\PokeFight\obj\Debug\ConsoleMonsters.csproj.AssemblyReference.cache
